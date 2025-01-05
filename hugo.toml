@@ -10,6 +10,8 @@ pygmentscodefencesguesssyntax = true
 	mode="dark"
 	useCDN=false
 	subtitle = "Hi there! This is [Rishabh Singhal](https://github.com/rish-singhal)'s personal blog."
+	mathjax = true
+	katex = true
 
 [[params.social]]
 name = "GitHub"
