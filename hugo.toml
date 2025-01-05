@@ -1,3 +1,37 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://rish-singhal.github.io"
+languageCode = "en-us"
+title = "RishBlogs"
+theme="archie"
+copyright = "© Rishabh Singhal"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="dark"
+	useCDN=false
+	subtitle = "Hi there! This is [Rishabh Singhal](https://github.com/rish-singhal)'s personal blog."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/rish-singhal"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blogs"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About Me"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
