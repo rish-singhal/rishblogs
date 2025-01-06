@@ -1,4 +1,4 @@
-baseURL = "https://rish-singhal.github.io"
+baseURL = "https://rish-singhal.github.io/rishblogs"
 languageCode = "en-us"
 title = "RishBlogs"
 theme="archie"
@@ -8,7 +8,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
 	mode="dark"
-	useCDN=false
+	useCDN=true
 	subtitle = "Hi there! This is [Rishabh Singhal](https://github.com/rish-singhal)'s personal blog."
 	mathjax = true
 	katex = true
