@@ -1,7 +1,7 @@
 ---
 title: "Notifications for Terminal Commands"
-date: "2023-10-04"
-description: "Improve your productivity by automating notifications."
+date: "2025-09-04"
+tags: [Productivity]
 ---
 
 ## Introduction
